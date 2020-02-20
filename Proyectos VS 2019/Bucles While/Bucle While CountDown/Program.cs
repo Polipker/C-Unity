@@ -18,7 +18,7 @@ namespace Bucle_While_1
            
            do
             {
-                x -= 1 ;
+                x -- ;
                 Console.WriteLine( x );
 
             }
